@@ -8,7 +8,8 @@ p {
 }
 
 .three {
-    font-size: 30px;
+    font-size: 24px;
+    font-weight: 550;
 }
 
 .five {
@@ -17,10 +18,11 @@ p {
 
 #two {
     color: #0000ff;
-    font-size: 40px;
+    font-size: 36px;
 }
 
 #four {
     background-color: #5ced73;
-    font-size: 30px;
+    font-size: 24px;
+    font-weight: 800;
 }
